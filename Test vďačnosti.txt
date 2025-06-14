@@ -1,0 +1,99 @@
+Tu je test s 20 otázkami, ktorý ti pomôže zistiť, ako si vďačný voči ľuďom vo svojom okolí. Na každú otázku odpovedz podľa seba úprimne. Použi hodnotenie:
+
+1 – vôbec nesúhlasím
+2 – skôr nesúhlasím
+3 – ani súhlasím, ani nesúhlasím
+4 – skôr súhlasím
+5 – úplne súhlasím
+
+
+---
+
+🧠 Test vďačnosti voči ľuďom
+
+1. Často premýšľam o tom, čo všetko pre mňa iní ľudia urobili.
+
+
+2. Dokážem ľuďom v mojom okolí vyjadriť úprimné poďakovanie.
+
+
+3. Vážim si aj malé láskavosti od známych alebo priateľov.
+
+
+4. Ak mi niekto pomôže, nezabudnem na to.
+
+
+5. Keď sa mi darí, spomeniem si na tých, čo mi pomohli.
+
+
+6. Cítim sa príjemne, keď môžem niekomu poďakovať.
+
+
+7. Hovorím „ďakujem“ nielen zo slušnosti, ale z presvedčenia.
+
+
+8. Keď sa niekto pre mňa obetuje, beriem to ako samozrejmosť. (opačná otázka)
+
+
+9. Myslím si, že si zaslúžim pomoc druhých. (opačná otázka)
+
+
+10. Všímam si, čo ľudia pre mňa robia, aj keď sú to drobnosti.
+
+
+11. Keď niekto spraví niečo dobré, zvyknem mu to aj neskôr pripomenúť a poďakovať.
+
+
+12. Vážim si úprimné rady od iných, aj keď nie sú príjemné.
+
+
+13. Keď mi niekto pomôže, snažím sa mu to vrátiť.
+
+
+14. Vnímam ľudí okolo seba ako hodnotnú súčasť môjho života.
+
+
+15. Snažím sa povedať blízkym, že ich prítomnosť si cením.
+
+
+16. Uvedomujem si, že veľa vecí by som nedosiahol bez druhých.
+
+
+17. Ľudia okolo mňa vedia, že som im vďačný.
+
+
+18. Ak mi niekto pomôže, zriedka sa o tom zmienim. (opačná otázka)
+
+
+19. Mám vo zvyku ďakovať aj za veci, ktoré sa iným zdajú bežné.
+
+
+20. Cítim vnútornú potrebu prejaviť vďaku tým, ktorí mi pomáhajú.
+
+
+
+
+---
+
+🧾 Vyhodnotenie:
+
+Opačné otázky: č. 8, 9, 18 — pri nich otoč skóre (1 → 5, 2 → 4, 3 → 3, 4 → 2, 5 → 1).
+Potom spočítaj všetky body (max. 100 bodov).
+
+
+---
+
+📊 Výsledky:
+
+81–100 bodov: Si veľmi vďačný človek. Vzťahy berieš vážne a druhých si vážiš.
+
+61–80 bodov: Si úprimne vďačný, ale niekedy si to neuvedomíš alebo nevyjadríš.
+
+41–60 bodov: Vďačnosť cítiš, ale máš priestor na zlepšenie v jej prejavovaní.
+
+21–40 bodov: Často berieš pomoc ako samozrejmosť. Môžeš sa naučiť viac vážiť si druhých.
+
+0–20 bodov: Pravdepodobne nevnímaš vplyv iných na tvoj život. Odporúča sa viac sa zamyslieť nad vďačnosťou a jej významom.
+
+
+Ak chceš, môžem ti test aj automaticky vyhodnotiť, ak mi pošleš svoje odpovede (číselne).
