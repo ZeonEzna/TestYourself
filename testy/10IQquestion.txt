@@ -1,0 +1,128 @@
+Iq testy
+
+Tu je 10 otázok, ktoré sú inšpirované klasickými testami IQ (napr. Ravenove progresívne matrice, logické a verbálne úlohy). Nejde o oficiálny IQ test, ale môžu ti pomôcť orientačne zhodnotiť logické a analytické myslenie:
+
+
+---
+
+Otázky:
+
+1. Ktoré číslo logicky patrí na miesto otázniku?
+2, 4, 8, 16, ?
+A) 20 B) 24 C) 30 D) 32
+
+
+2. Ak je všetky labute sú biele a Tomáš videl vtáka, ktorý nebol biely – mohol to byť labuť?
+A) Áno B) Nie C) Nevieme
+
+
+3. Nájdi slovo, ktoré sa nehodí medzi ostatné:
+A) Kruh B) Štvorec C) Trojuholník D) Loptu
+
+
+4. Koľko trojuholníkov je na tomto obrázku? (obrázok môžem vygenerovať, ak chceš)
+(Textovo: predstav si obrázok tvorený veľkým trojuholníkom, ktorý je rozdelený na štyri menšie trojuholníky)
+A) 4 B) 6 C) 8 D) 10
+
+
+5. Ak sú dve hodiny po polnoci, aký uhol zvierajú ručičky hodín?
+A) 60° B) 90° C) 120° D) 150°
+
+
+6. Čo nasleduje v tejto sérii písmen?
+A – C – F – J – O – ?
+A) Q B) R C) U D) V
+
+
+7. Muž má päť dcér. Každá má jedného brata. Koľko detí má muž?
+A) 5 B) 6 C) 10 D) 11
+
+
+8. Ak je vlak dlhý 100 m a ide rýchlosťou 50 km/h, koľko sekúnd potrebuje, aby prešiel cez most dlhý 200 m?
+A) 10 s B) 15 s C) 20 s D) 21,6 s
+
+
+9. Ak dnes je pondelok, aký deň bude o 45 dní?
+A) Utorok B) Streda C) Štvrtok D) Piatok
+
+
+10. Nájdi vzorec:
+1 → 5
+2 → 10
+3 → 17
+4 → ?
+A) 26 B) 24 C) 21 D) 20
+
+Tu sú správne odpovede aj s vysvetlením pre každú otázku:
+
+
+---
+
+Správne odpovede a vysvetlenie:
+
+1. 2, 4, 8, 16, ?
+✅ Správna odpoveď: D) 32
+(Ide o násobenie dvojkou: 2×2 = 4, 4×2 = 8, atď.)
+
+
+2. Ak sú všetky labute biele...
+✅ Správna odpoveď: B) Nie
+(Ak vták nie je biely, nemôže byť labuť, lebo všetky labute sú biele.)
+
+
+3. Nevhodné slovo:
+✅ Správna odpoveď: D) Loptu
+(Ostatné sú geometrické tvary, lopta je konkrétny objekt.)
+
+
+4. Koľko trojuholníkov?
+✅ Správna odpoveď: C) 8
+(4 malé + 3 stredné + 1 veľký = 8)
+
+
+5. Uhol o 2:00 hodine:
+✅ Správna odpoveď: C) 120°
+(Každá hodina = 30°. Medzi 2 a 12 je 4 hodiny → 4×30 = 120°)
+
+
+6. Písmenová séria: A–C–F–J–O–?
+✅ Správna odpoveď: C) U
+(+2, +3, +4, +5, +6 → A + 2 = C, C + 3 = F, … O + 6 = U)
+
+
+7. Muž má 5 dcér a každá má jedného brata:
+✅ Správna odpoveď: B) 6
+(Všetky dcéry majú toho istého jedného brata, nie každá svojho.)
+
+
+8. Vlak 100 m + most 200 m = 300 m, rýchlosť 50 km/h:
+✅ Správna odpoveď: D) 21,6 s
+(50 km/h = 13,89 m/s → 300 ÷ 13,89 ≈ 21,6 s)
+
+
+9. 45 dní od pondelka:
+✅ Správna odpoveď: B) Streda
+(45 ÷ 7 = 6 zvyšok 3 → Pondelok + 3 dni = Streda)
+
+
+10. 1→5, 2→10, 3→17, 4→?
+✅ Správna odpoveď: A) 26
+(Vzorec: n² + 1 → 1²+1=2, ale to nesedí.
+Skutočne: 1→5 (1² + 4), 2→10 (2² + 6), 3→17 (3² + 8), 4→26 (4² + 10)) – prírastky rastú o 2.
+
+
+
+
+---
+
+Vyhodnotenie (orientačné):
+
+10 správnych: výborné, veľmi vysoká logická inteligencia (IQ ~130+)
+
+8–9 správnych: nadpriemerné IQ (~115–129)
+
+6–7 správnych: priemerné IQ (~100–114)
+
+4–5 správnych: podpriemer, možno slabšia logická/matematická zložka (~85–99)
+
+0–3 správne: nízke skóre, ale môže to byť ovplyvnené stresom alebo nepochopením typu úloh
