@@ -1,1 +1,2 @@
-
+About app meaning. Plan is make auto-resulting app including AI to show you objective result
+of tests you passed. result should by humanized answer and could help you find your weak sides or give you recommendation to enhance your personal potention also i want to include cumulative result that give you advanced psychological report.
